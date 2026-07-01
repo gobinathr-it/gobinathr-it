@@ -11,5 +11,4 @@
 📌 Building AI projects and improving my skills every day.
 
 📫 Connect with me:
-- GitHub: https://github.com/gobinathr-it
 - LinkedIn: https://www.linkedin.com/in/gobinathr-it
