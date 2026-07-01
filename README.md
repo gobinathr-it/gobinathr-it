@@ -88,14 +88,6 @@ REST APIs built using FastAPI with authentication and database integration.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gobinathr-it\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gobinathr-it\&layout=compact)
-
----
-
 ## 🌱 Currently Learning
 
 * AI Systems Engineering
@@ -104,13 +96,6 @@ REST APIs built using FastAPI with authentication and database integration.
 * RAG Applications
 * Docker
 * AWS Cloud
-
----
-
-## 🤝 Connect With Me
-
-* 💼 LinkedIn: https://www.linkedin.com/in/gobinathr-it
-* 💻 GitHub: https://github.com/gobinathr-it
 
 ---
 
