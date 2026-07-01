@@ -1,16 +1,119 @@
-## Hi there 👋
+# Hi there, I'm Gobinath 👋
 
-<!--
-**gobinathr-it/gobinathr-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI Systems Engineer | Python Developer | B.Tech (Information Technology)
 
-Here are some ideas to get you started:
+I'm passionate about building AI-powered applications that solve real-world problems. My current focus is on **Large Language Models (LLMs), FastAPI, Machine Learning, OCR, and AI Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+* 🎓 B.Tech in Information Technology
+* 🤖 Exploring AI Systems Engineering
+* 🐍 Python & FastAPI Developer
+* 🧠 Learning Machine Learning, Deep Learning & Generative AI
+* 🌱 Currently working on AI-based projects and open-source contributions
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+* Python
+* SQL
+* HTML
+* CSS
+* JavaScript (Basics)
+
+### Frameworks & Libraries
+
+* FastAPI
+* Flask
+* TensorFlow
+* Scikit-learn
+* Pandas
+* NumPy
+* OpenCV
+* LangChain
+
+### AI & ML
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* OCR
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* SQLite
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* PyCharm
+* Google Colab
+* Jupyter Notebook
+* Docker (Learning)
+
+---
+
+## 📌 Featured Projects
+
+### 🩺 AI Medical Report Summarizer
+
+AI application that summarizes medical reports using OCR, NLP, and LLMs.
+
+**Tech:** Python • FastAPI • OCR • LLM
+
+---
+
+### 😊 Sentiment Analysis
+
+Machine learning project to classify text sentiment.
+
+**Tech:** Python • Scikit-learn • NLP
+
+---
+
+### ⚡ FastAPI Backend APIs
+
+REST APIs built using FastAPI with authentication and database integration.
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gobinathr-it\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gobinathr-it\&layout=compact)
+
+---
+
+## 🌱 Currently Learning
+
+* AI Systems Engineering
+* Generative AI
+* Multi-Agent AI Systems
+* RAG Applications
+* Docker
+* AWS Cloud
+
+---
+
+## 🤝 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/gobinathr-it
+* 💻 GitHub: https://github.com/gobinathr-it
+
+---
+
+### 💡 Quote
+
+> *"Build consistently. Learn continuously. Share openly."*
