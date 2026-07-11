@@ -1,7 +1,5 @@
 # Hi 👋, I'm Gobinath
 
-💻 AI Systems Engineer Enthusiast
-
 🚀 Learning:
 - Python
 - FastAPI
