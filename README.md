@@ -13,17 +13,20 @@ I'm an Information Technology student passionate about building practical softwa
 
 ---
 
-## 🛠️ Technical Skills
 
-**Languages:** Python, Java, JavaScript, SQL, HTML, CSS
+## Technical Skills
 
-**Backend:** FastAPI, REST APIs, Node.js (Basics)
+**Languages:**  
+Python, Java, JavaScript, SQL, C, C++, HTML, CSS
 
-**Databases:** MySQL, PostgreSQL, MongoDB (Basics)
+**Frameworks & Libraries:**  
+Django, Django REST Framework, PyTorch, Spring Boot, Hibernate, Maven, React
 
-**Tools:** Git, GitHub, VS Code, Docker (Basics), Linux (Basics)
+**Tools & Platforms:**  
+Git, Docker, Jenkins, MySQL, SQLite, Linux, Postman, JWT
 
-**AI/ML:** Machine Learning, Deep Learning, Generative AI (Learning)
+**Concepts:**  
+REST APIs, Microservices, Data Structures & Algorithms, OOP, CI/CD, Agile
 
 ---
 
