@@ -1,20 +1,11 @@
 
-# Hi, I'm Gobinath R 👋
+# Gobinath R
 
 ### B.Tech IT Student | Python | AI & Automation | GenAI
-
-I'm an Information Technology student passionate about building practical software solutions, exploring Artificial Intelligence, and developing AI-powered applications.
-
-- 🐍 Learning Python and backend development
-- 🤖 Exploring Generative AI and Agentic AI
-- 💻 Practicing Data Structures and Algorithms on LeetCode
-- 🚀 Building projects to solve real-world problems
-- 🎯 Working towards becoming an AI Systems Engineer
-
 ---
 
 
-## Technical Skills
+## Technical Expertise
 
 **Languages:**  
 Python, Java, JavaScript, SQL, C, C++, HTML, CSS
@@ -30,7 +21,7 @@ REST APIs, Microservices, Data Structures & Algorithms, OOP, CI/CD, Agile
 
 ---
 
-## 🚀 Projects
+## 🚀 Project Highlights
 
 ### 🩺 AI Medical Report Summarizer
 - Developed backend APIs using Python and FastAPI.
@@ -48,7 +39,7 @@ REST APIs, Microservices, Data Structures & Algorithms, OOP, CI/CD, Agile
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Tech in Information Technology**  
 J.K.K. Nataraja College of Engineering and Technology  
@@ -56,18 +47,9 @@ Expected Graduation: May 2028
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - NCA-AIIO Certified Associate — AI Infrastructure & Ops
-
----
-
-## 🔗 Connect With Me
-
-- **Email:** [gobinathr.tech@gmail.com](mailto:gobinathr.tech@gmail.com)
-- **GitHub:** [@gobinathr-it](https://github.com/gobinathr-it)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/gobinathrit/)
-- **LeetCode:** [Smiley_paah](https://leetcode.com/u/Smiley_paah/)
 
 ---
 
