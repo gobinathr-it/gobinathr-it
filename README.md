@@ -1,16 +1,71 @@
-## Hi there 👋
 
-<!--
-**gobinathr-it/gobinathr-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Gobinath R 👋
 
-Here are some ideas to get you started:
+### B.Tech IT Student | Python | AI & Automation | GenAI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an Information Technology student passionate about building practical software solutions, exploring Artificial Intelligence, and developing AI-powered applications.
+
+- 🐍 Learning Python and backend development
+- 🤖 Exploring Generative AI and Agentic AI
+- 💻 Practicing Data Structures and Algorithms on LeetCode
+- 🚀 Building projects to solve real-world problems
+- 🎯 Working towards becoming an AI Systems Engineer
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, Java, JavaScript, SQL, HTML, CSS
+
+**Backend:** FastAPI, REST APIs, Node.js (Basics)
+
+**Databases:** MySQL, PostgreSQL, MongoDB (Basics)
+
+**Tools:** Git, GitHub, VS Code, Docker (Basics), Linux (Basics)
+
+**AI/ML:** Machine Learning, Deep Learning, Generative AI (Learning)
+
+---
+
+## 🚀 Projects
+
+### 🩺 AI Medical Report Summarizer
+- Developed backend APIs using Python and FastAPI.
+- Worked on medical report upload, processing, summarization, translation, and download workflows.
+- Explored PDF processing and AI integration.
+
+### 💰 Fund & Scheme Watch Platform
+- Built a web application for tracking financial schemes and funds.
+- Developed dashboards and interactive user workflows.
+- Explored AI-assisted application development.
+
+### 🧠 AI & Backend Development
+- Practicing backend development, API integration, and software engineering concepts.
+- Exploring AI-powered applications through hands-on projects.
+
+---
+
+## 🎓 Education
+
+**B.Tech in Information Technology**  
+J.K.K. Nataraja College of Engineering and Technology  
+Expected Graduation: May 2028
+
+---
+
+## 📜 Certifications
+
+- NCA-AIIO Certified Associate — AI Infrastructure & Ops
+
+---
+
+## 🔗 Connect With Me
+
+- **Email:** [gobinathr.tech@gmail.com](mailto:gobinathr.tech@gmail.com)
+- **GitHub:** [@gobinathr-it](https://github.com/gobinathr-it)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/gobinathrit/)
+- **LeetCode:** [Smiley_paah](https://leetcode.com/u/Smiley_paah/)
+
+---
+
+*Always learning, building, and exploring the future of AI and software engineering.*
