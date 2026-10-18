@@ -8,13 +8,13 @@
 ## Technical Expertise
 
 **Languages:**  
-Python, Java, JavaScript, SQL, C, C++, HTML, CSS
+Python, Java, JavaScript, SQL, HTML, CSS
 
 **Frameworks & Libraries:**  
-Django, Django REST Framework, PyTorch, Spring Boot, Hibernate, Maven, React
+Django, Django REST Framework,Fastapi, Langchain, langgraph, PyTorch, Spring Boot, Hibernate, Maven, React
 
 **Tools & Platforms:**  
-Git, Docker, Jenkins, MySQL, SQLite, Linux, Postman, JWT
+Git, Docker, Kubernets , Jenkins, MySQL, SQLite, Linux, Postman, JWT , PostgreSQL , MongoDB
 
 **Concepts:**  
 REST APIs, Microservices, Data Structures & Algorithms, OOP, CI/CD, Agile
